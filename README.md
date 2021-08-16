@@ -9,18 +9,18 @@
 ![C++](https://img.shields.io/badge/-c%2b%2b-090909?style=for-the-badge&logo=cplusplus&logoColor=yellow)
 
 ### Skills:
-![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=47C5FB)
-![.Net](https://img.shields.io/badge/-.net-090909?style=for-the-badge&logo=.net&logoColor=47C5FB)
-![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=ApacheKafka&logoColor=47C5FB)
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=47C5FB)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes&logoColor=47C5FB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=47C5FB)
+![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=yellow)
+![.Net](https://img.shields.io/badge/-.net-090909?style=for-the-badge&logo=.net&logoColor=yellow)
+![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=ApacheKafka&logoColor=yellow)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=yellow)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes&logoColor=yellow)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=yellow)
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=47C5FB)](https://t.me/impsface)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=47C5FB)](https://vk.com/achekslime)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchekSlime&show_icons=true&theme=prussian&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchekSlime&show_icons=true&theme=shades-of-purple&layout=compact)
 
 <!--
 **AchekSlime/AchekSlime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
