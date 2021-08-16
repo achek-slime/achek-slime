@@ -3,15 +3,15 @@
 ## I am a Software Developer && 3rd year student at the HSE University
 
 ### Languages:
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=red)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=47C5FB)
-![C#](https://img.shields.io/badge/-С%23-090909?style=for-the-badge&logo=csharp&logoColor=purple)
+![C#](https://img.shields.io/badge/-С%23-090909?style=for-the-badge&logo=csharp&logoColor=47C5FB)
 ![C++](https://img.shields.io/badge/-c%2b%2b-090909?style=for-the-badge&logo=cplusplus&logoColor=47C5FB)
 
 ### Skills:
-![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=green)
-![.Net](https://img.shields.io/badge/-.net-090909?style=for-the-badge&logo=.ne&logoColor=purple)
-![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=ApacheKafka&logoColor=red)
+![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=47C5FB)
+![.Net](https://img.shields.io/badge/-.net-090909?style=for-the-badge&logo=.ne&logoColor=47C5FB)
+![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=ApacheKafka&logoColor=47C5FB)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=47C5FB)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes&logoColor=47C5FB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=47C5FB)
