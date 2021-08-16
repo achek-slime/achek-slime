@@ -3,9 +3,14 @@
 ## I am a Software Developer && 3rd student at the HSE University
 
 ### Languages and Tools:
-![Go](https://github.com/AchekSlime/AchekSlime/blob/master/assets/golang.svg)
-![Java](https://github.com/AchekSlime/AchekSlime/blob/master/assets/java.svg)
-![Spring](https://github.com/AchekSlime/AchekSlime/blob/master/assets/spring.svg)
+![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
+![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=47C5FB)
+![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate&logoColor=47C5FB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=47C5FB)
+![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=ApacheKafka&logoColor=47C5FB)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=47C5FB)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes&logoColor=47C5FB)
 
 
 ### Follow Me:
