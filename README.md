@@ -3,8 +3,10 @@
 ## I am a Software Developer && 3rd student at the HSE University
 
 ### Languages:
-![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
+![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
+![C#](https://img.shields.io/badge/-С%23-090909?style=for-the-badge&logo=csharp&logoColor=47C5FB)
+![C++](https://img.shields.io/badge/-c%2b%2b-090909?style=for-the-badge&logo=cplusplus&logoColor=47C5FB)
 
 ### Skills:
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=47C5FB)
