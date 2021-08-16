@@ -1,5 +1,5 @@
-# My name is Timur
-# I am a software developer and a third-year student at the HSE University
+### My name is Timur
+### I am a software developer and a third-year student at the HSE University
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchekSlime&show_icons=true&theme=shades-of-purple&layout=compact)
 
 
