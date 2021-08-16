@@ -20,7 +20,7 @@
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=47C5FB)](https://t.me/impsface)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=47C5FB)](https://vk.com/achekslime)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchekSlime&show_icons=true&theme=ayu-mirage&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchekSlime&show_icons=true&theme=nord&layout=compact)
 
 <!--
 **AchekSlime/AchekSlime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
