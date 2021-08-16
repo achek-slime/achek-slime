@@ -1,10 +1,12 @@
-# My name is Timur
-## I am a Software Developer
-## 3rd student at the HSE University
+<!--![Header](https://github.com/AchekSlime/AchekSlime/blob/main/assets/header.jpg)-->
+
+## I am a Software Developer && 3rd student at the HSE University
 
 ### Languages and Tools:
-![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=47C5FB)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
+![Go](https://github.com/AchekSlime/AchekSlime/blob/main/assets/golang.svg)
+![Java](https://github.com/AchekSlime/AchekSlime/blob/main/assets/java.svg)
+![Spring](https://github.com/AchekSlime/AchekSlime/blob/main/assets/spring.svg)
+
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=47C5FB)](https://t.me/impsface)
