@@ -3,22 +3,22 @@
 ## I am a Software Developer && 3rd student at the HSE University
 
 ### Languages:
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=yellow)
-![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=yellow)
-![C#](https://img.shields.io/badge/-С%23-090909?style=for-the-badge&logo=csharp&logoColor=yellow)
-![C++](https://img.shields.io/badge/-c%2b%2b-090909?style=for-the-badge&logo=cplusplus&logoColor=yellow)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=red)
+![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=47C5FB)
+![C#](https://img.shields.io/badge/-С%23-090909?style=for-the-badge&logo=csharp&logoColor=purple)
+![C++](https://img.shields.io/badge/-c%2b%2b-090909?style=for-the-badge&logo=cplusplus&logoColor=47C5FB)
 
 ### Skills:
-![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=yellow)
-![.Net](https://img.shields.io/badge/-.net-090909?style=for-the-badge&logo=.net&logoColor=yellow)
-![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=ApacheKafka&logoColor=yellow)
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=yellow)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes&logoColor=yellow)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=yellow)
+![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=green)
+![.Net](https://img.shields.io/badge/-.net-090909?style=for-the-badge&logo=.net&logoColor=purple)
+![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=ApacheKafka&logoColor=red)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=47C5FB)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes&logoColor=47C5FB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=47C5FB)
 
 ### Follow Me:
-[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=yellow)](https://t.me/impsface)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=yellow)](https://vk.com/achekslime)
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=47C5FB)](https://t.me/impsface)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=47C5FB)](https://vk.com/achekslime)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchekSlime&show_icons=true&theme=ayu-mirage&layout=compact)
 
