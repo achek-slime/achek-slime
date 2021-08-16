@@ -2,7 +2,7 @@
 
 ## I am a BackEnd Developer && 3rd year student at the HSE University
 
-### Languages:
+### Languages & Skills:
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=47C5FB)
 ![C#](https://img.shields.io/badge/-С%23-090909?style=for-the-badge&logo=csharp&logoColor=47C5FB)
