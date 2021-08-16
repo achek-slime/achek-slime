@@ -1,11 +1,11 @@
-<!--![Header](https://github.com/AchekSlime/AchekSlime/blob/main/assets/header.jpg)-->
+<!--![Header](https://github.com/AchekSlime/AchekSlime/blob/master/assets/header.jpg)-->
 
 ## I am a Software Developer && 3rd student at the HSE University
 
 ### Languages and Tools:
-![Go](https://github.com/AchekSlime/AchekSlime/blob/main/assets/golang.svg)
-![Java](https://github.com/AchekSlime/AchekSlime/blob/main/assets/java.svg)
-![Spring](https://github.com/AchekSlime/AchekSlime/blob/main/assets/spring.svg)
+![Go](https://github.com/AchekSlime/AchekSlime/blob/master/assets/golang.svg)
+![Java](https://github.com/AchekSlime/AchekSlime/blob/master/assets/java.svg)
+![Spring](https://github.com/AchekSlime/AchekSlime/blob/master/assets/spring.svg)
 
 
 ### Follow Me:
