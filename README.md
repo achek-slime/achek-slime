@@ -10,7 +10,7 @@
 
 ### Skills:
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=green)
-![.Net](https://img.shields.io/badge/-090909?style=for-the-badge&logo=.net&logoColor=purple)
+![.Net](https://img.shields.io/badge/-.net-090909?style=for-the-badge&logo=.ne&logoColor=purple)
 ![Kafka](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=ApacheKafka&logoColor=red)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=47C5FB)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes&logoColor=47C5FB)
