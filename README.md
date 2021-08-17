@@ -1,6 +1,6 @@
 <!--![Header](https://github.com/AchekSlime/AchekSlime/blob/master/assets/header.jpg)-->
 
-## * I am a beginner BackEnd Developer <br/> * HSE Faculty of CS Software Engineering student
+##* I am a beginner BackEnd Developer <br/> * HSE Faculty of CS Software Engineering student
 
 ### Languages and Skills:
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
@@ -16,7 +16,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes&logoColor=47C5FB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=47C5FB)
 
-### Follow Me:
+* Follow Me:
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=47C5FB)](https://t.me/impsface)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=47C5FB)](https://vk.com/achekslime)
 
