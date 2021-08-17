@@ -1,6 +1,6 @@
 <!--![Header](https://github.com/AchekSlime/AchekSlime/blob/master/assets/header.jpg)-->
 
-## I am a beginner BackEnd Developer <br/> HSE Faculty of CS Software Engineering student
+## &nbsp;&nbsp; I am a beginner BackEnd Developer <br/> &nbsp;&nbsp; HSE Faculty of CS Software Engineering student
 
 ### Languages and Skills:
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
