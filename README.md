@@ -5,8 +5,10 @@
 ### Languages and Skills:
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=FFFFFF)
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=47C5FB)
+<!--
 ![C#](https://img.shields.io/badge/-С%23-090909?style=for-the-badge&logo=csharp&logoColor=47C5FB)
 ![C++](https://img.shields.io/badge/-c%2b%2b-090909?style=for-the-badge&logo=cplusplus&logoColor=47C5FB)
+-->
 
 ####
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring&logoColor=03C04A)
