@@ -1,6 +1,6 @@
 <!--![Header](https://github.com/AchekSlime/AchekSlime/blob/master/assets/header.jpg)-->
 
-## Back-end Developer <br/> <br/>  HSE Computer Science student
+## <!-- Back-end Developer <br/> <br/> -->  HSE Computer Science student
 
 ### Skills:
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=47C5FB)
