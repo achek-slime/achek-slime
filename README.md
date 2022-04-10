@@ -1,4 +1,4 @@
-<!--![Header](https://github.com/AchekSlime/AchekSlime/blob/master/assets/header.jpg)-->
+![Header](https://github.com/AchekSlime/AchekSlime/blob/master/assets/lightning.jpg)
 
 ## <!-- Back-end Developer <br/> <br/> -->  HSE Computer Science student
 
