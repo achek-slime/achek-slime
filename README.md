@@ -1,5 +1,3 @@
-![Header](https://github.com/AchekSlime/AchekSlime/blob/master/assets/lightning.jpg)
-
 ## <!-- Back-end Developer <br/> <br/> -->  HSE Computer Science graduated
 
 ### Skills:
