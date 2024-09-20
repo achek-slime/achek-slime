@@ -20,7 +20,7 @@
 ![.Net](https://img.shields.io/badge/-.net-090909?style=for-the-badge&logo=.ne&logoColor=A32CC4)
 -->
 
-### Follow Me:
+### Contacts:
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=47C5FB)](https://t.me/impsface)
 [![Vk](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=47C5FB)](https://vk.com/achekslime)
 
